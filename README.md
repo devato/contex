@@ -2,7 +2,7 @@
 
 An opinionated, bounded context library for Rails.
 
-Currently a WIP
+Currently a WIP, not useful yet.
 
 # TODO
 - add generators
