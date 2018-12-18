@@ -5,6 +5,7 @@ An opinionated, bounded context library for Rails.
 Currently a WIP
 
 # TODO
+- add generators
 - add specs
 - flesh out details for assets/webpacker
 - test against different rails versions
