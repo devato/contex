@@ -1,2 +1,5 @@
-class Contex
-end
+require "contex/version"
+require "contex/railtie-routes"
+require "contex/railtie-preload"
+require "contex/railtie-postload"
+require "contex/repo"
