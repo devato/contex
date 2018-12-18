@@ -1,20 +1,18 @@
 # Contex
 
-## TODO:
- - add configuration:
- - https://hashrocket.com/blog/posts/hey-everyone-i-found-a-use-for-a-singleton
+An opinionated, bounded context library for Rails.
 
-## Installation
+Currently a WIP
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'contex'
-```
+# TODO
+- add specs
+- flesh out details for assets/webpacker
+- test against different rails versions
+- get reloader working for context paths
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rails-contexts.
+Bug reports and pull requests are welcome on GitHub at https://github.com/devato/contex
 
 ## License
 
