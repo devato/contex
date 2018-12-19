@@ -1,5 +1,5 @@
 require "contex/version"
-require "contex/railtie-routes"
-require "contex/railtie-preload"
-require "contex/railtie-postload"
+require "contex/railties/routes"
+require "contex/railties/preload"
+require "contex/railties/postload"
 require "contex/repo"

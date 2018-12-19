@@ -1,6 +1,6 @@
 module Contex
-  module Repo
-    def call(*args)
+  class Repo
+    def self.call(*args)
       new(*args).call
     end
   end
