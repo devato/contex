@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Contex
   class RailtieRoutes < Rails::Railtie
     initializer 'rails_context.routes', before: :set_autoload_paths do |app|

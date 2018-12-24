@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Creates the Contex initializer file for Rails apps.
 #
 # @example Invokation from terminal
