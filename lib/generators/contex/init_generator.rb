@@ -3,7 +3,7 @@
 # Creates the Contex initializer file for Rails apps.
 #
 # @example Invokation from terminal
-#   rails generate contex CONTEXT_DIR_NAME
+#   rails generate contex:init
 #
 module Contex
   class InitGenerator < Rails::Generators::Base
